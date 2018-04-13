@@ -1,6 +1,6 @@
 {
   "name": "shareable-react-component",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "",
   "main": "dist/MyComponent.js",
   "scripts": {
